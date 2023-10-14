@@ -63,7 +63,7 @@
 .brn-end{
   color: black;
   display: flex;
-  justify-content: end;
+  justify-content: flex-end;
 }
 .alert-fonts{
   font-size: 11px;
@@ -81,18 +81,18 @@
 .spaces{
   display: flex;
   gap: 9px;
-  align-items: end;
+  align-items: flex-end;
 }
 .underline{
   text-decoration: underline;
   padding: 5px;
   margin:5px;
 }
-.
+
 .navbar-btn{
   display: flex;
   gap: 10px;
-  align-items: end;
+  align-items:flex-end ;
 }
 .bg{
   background-color: white;
